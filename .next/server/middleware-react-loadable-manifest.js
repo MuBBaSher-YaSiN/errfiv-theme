@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/page.js -> @/components/CountDown":{"id":3557,"files":["static/chunks/13b76428-2766062259657f3c.js","static/chunks/3557.2a8dd661f6254324.js"]}}';
